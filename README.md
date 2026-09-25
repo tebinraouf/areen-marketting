@@ -39,3 +39,12 @@ Social media images and videos for Areen products. Files here are public so sche
 | `areen-shop/reels/areen-reel-12-branches.mp4` | Reel 12: Branches | 1080×1920 MP4, 12 s |
 | `areen-shop/reels/areen-reel-13-who-ku.mp4` | Reel 13: Who is Areen Shop for? (Kurdish) | 1080×1920 MP4, 12 s |
 | `areen-shop/reels/areen-reel-14-who-en.mp4` | Reel 14: Who is Areen Shop for? (English) | 1080×1920 MP4, 12 s |
+
+## areen-shop limited-time offer
+
+| File | Item | Format |
+|---|---|---|
+| `areen-shop/offer/areen-offer-feed-ku.jpg` | Unlimited offer, feed post (Kurdish) | 1080×1350 JPG |
+| `areen-shop/offer/areen-offer-feed-en.jpg` | Unlimited offer, feed post (English) | 1080×1350 JPG |
+| `areen-shop/offer/areen-offer-story-ku.jpg` | Unlimited offer, story (Kurdish) | 1080×1920 JPG |
+| `areen-shop/offer/areen-offer-story-en.jpg` | Unlimited offer, story (English) | 1080×1920 JPG |
