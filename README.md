@@ -18,6 +18,8 @@ Social media images and videos for Areen products. Files here are public so sche
 | `areen-shop/areen-post-10-shifts.jpg` | Post 10: Cashier shifts | 1080×1350 JPG |
 | `areen-shop/areen-post-11-expenses.jpg` | Post 11: Expenses | 1080×1350 JPG |
 | `areen-shop/areen-post-12-branches.jpg` | Post 12: Branches | 1080×1350 JPG |
+| `areen-shop/areen-post-13-who-ku.jpg` | Post 13: Who is Areen Shop for? (Kurdish) | 1080×1350 JPG |
+| `areen-shop/areen-post-14-who-en.jpg` | Post 14: Who is Areen Shop for? (English) | 1080×1350 JPG |
 
 ## areen-shop reels
 
@@ -35,3 +37,5 @@ Social media images and videos for Areen products. Files here are public so sche
 | `areen-shop/reels/areen-reel-10-shifts.mp4` | Reel 10: Cashier shifts | 1080×1920 MP4, 12 s |
 | `areen-shop/reels/areen-reel-11-expenses.mp4` | Reel 11: Expenses | 1080×1920 MP4, 12 s |
 | `areen-shop/reels/areen-reel-12-branches.mp4` | Reel 12: Branches | 1080×1920 MP4, 12 s |
+| `areen-shop/reels/areen-reel-13-who-ku.mp4` | Reel 13: Who is Areen Shop for? (Kurdish) | 1080×1920 MP4, 12 s |
+| `areen-shop/reels/areen-reel-14-who-en.mp4` | Reel 14: Who is Areen Shop for? (English) | 1080×1920 MP4, 12 s |
