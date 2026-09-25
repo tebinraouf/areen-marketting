@@ -48,3 +48,14 @@ Social media images and videos for Areen products. Files here are public so sche
 | `areen-shop/offer/areen-offer-feed-en.jpg` | Unlimited offer, feed post (English) | 1080×1350 JPG |
 | `areen-shop/offer/areen-offer-story-ku.jpg` | Unlimited offer, story (Kurdish) | 1080×1920 JPG |
 | `areen-shop/offer/areen-offer-story-en.jpg` | Unlimited offer, story (English) | 1080×1920 JPG |
+
+## areen-shop animated stories
+
+Six 5-second 1080×1920 MP4 scenes per story, played in order as Instagram and Facebook Stories.
+
+| Folder | Story |
+|---|---|
+| `areen-shop/stories/perfume-doodle/ku/` | Perfume shop story, doodle style (Kurdish), scene-1 … scene-6 |
+| `areen-shop/stories/perfume-doodle/en/` | Perfume shop story, doodle style (English), scene-1 … scene-6 |
+| `areen-shop/stories/launch-day/ku/` | Phone launch-day story (Kurdish), scene-1 … scene-6 |
+| `areen-shop/stories/launch-day/en/` | Phone launch-day story (English), scene-1 … scene-6 |
